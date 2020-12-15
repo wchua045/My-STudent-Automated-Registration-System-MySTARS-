@@ -1,0 +1,6 @@
+/.metadata/
+STARSplanner/.settings/org.eclipse.jdt.core.prefs
+STARSplanner/.project
+STARSplanner/.classpath
+/bin/
+*.ser
